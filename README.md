@@ -4,7 +4,7 @@
 
 ## Sobre
 Projeto desenvolvido como para entender Composables(componentes reutilizáveis). No caso
-são funcões para criar componentes que vão ser usados mais de uma vez.
+são funções para criar componentes que vão ser usados mais de uma vez.
 
 Disciplina ministrada pelo professor [João Henrique](https://www.linkedin.com/in/joao-henrique-parizoti-meyer/?locale=pt_BR).
 
