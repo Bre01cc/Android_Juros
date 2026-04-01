@@ -35,7 +35,7 @@ Com base nos valores informados pelo usuário, a aplicação realiza o cálculo 
 https://github.com/Bre01cc/Android_Juros.git
 ```
 ## Imagem da aplicação
-<img width="353" height="743" alt="Captura de Tela 2026-03-18 às 11 28 52" src="https://github.com/user-attachments/assets/c03af24a-3bce-4abd-a9fc-7c335632ede1" />
+<img width="253" height="543" alt="Captura de Tela 2026-03-18 às 11 28 52" src="https://github.com/user-attachments/assets/c03af24a-3bce-4abd-a9fc-7c335632ede1" />
 
 ## Autor
 - [Breno Reis](https://www.linkedin.com/in/breno-oliveira-assis-reis-203010351/)
